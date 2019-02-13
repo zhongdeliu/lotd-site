@@ -61,7 +61,8 @@ a:hover {
 }
 
 .link__url {
-    font-size: 1.5rem;
+    font-size: 1.2rem;
+    white-space: nowrap;
 }
 
 .link__description {
